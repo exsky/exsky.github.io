@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>exsky&#39;s snippet</title>
+    <link>https://exsky.github.io/</link>
+    <description>Recent content on exsky&#39;s snippet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <lastBuildDate>Mon, 07 Sep 2020 15:25:19 +0800</lastBuildDate>
+    
+	<atom:link href="https://exsky.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://exsky.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 07 Sep 2020 15:25:19 +0800</pubDate>
+      
+      <guid>https://exsky.github.io/posts/my-first-post/</guid>
+      <description>Hello, a world of hugo.
+咪那桑，空尼揪哇，打給後，胎嘎侯。</description>
+    </item>
+    
+  </channel>
+</rss>
